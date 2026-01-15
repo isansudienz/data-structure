@@ -1,16 +1,20 @@
-Data Structure - Semester 3
+# Data Structure - Semester 3
 
-Kumpulan implementasi struktur data dalam Java untuk mata kuliah Struktur Data.
+Repository ini berisi implementasi berbagai struktur data dalam bahasa Java untuk mata kuliah Struktur Data.
 
-Konten
-- array
-- Linked List
-- Stack
-- Queue
+📚 Daftar Materi
 
+- Array                 - Implementasi dan operasi dasar array
+- Stack & Queue         - Implementasi stack dan queue
+- Doubly Linked List    - Linked list dengan pointer dua arah
+- Recursion             - Contoh implementasi rekursi
+- Advanced Sort         - Algoritma sorting tingkat lanjut
+- Heaps                 - Implementasi heap data structure
+- Graphs                - Implementasi dan traversal graph
 
-Bahasa Pemrograman
+🛠️ Bahasa Pemrograman
 - Java
 
-Cara Menjalankan
-[instruksi compile dan run]
+👨‍💻 Author
+Isan 
+- GitHub: [@isansudienz](https://github.com/isansudienz)
